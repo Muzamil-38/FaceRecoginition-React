@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FaceRecoginition-React/static/css/main.be0d9d63.chunk.css",
+    "main.js": "/FaceRecoginition-React/static/js/main.e2100d93.chunk.js",
+    "main.js.map": "/FaceRecoginition-React/static/js/main.e2100d93.chunk.js.map",
+    "runtime-main.js": "/FaceRecoginition-React/static/js/runtime-main.acc923e9.js",
+    "runtime-main.js.map": "/FaceRecoginition-React/static/js/runtime-main.acc923e9.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/FaceRecoginition-React/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a086cdf0.chunk.js": "/FaceRecoginition-React/static/js/2.a086cdf0.chunk.js",
+    "static/js/2.a086cdf0.chunk.js.map": "/FaceRecoginition-React/static/js/2.a086cdf0.chunk.js.map",
+    "index.html": "/FaceRecoginition-React/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/FaceRecoginition-React/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.be0d9d63.chunk.css.map": "/FaceRecoginition-React/static/css/main.be0d9d63.chunk.css.map",
+    "static/js/2.a086cdf0.chunk.js.LICENSE.txt": "/FaceRecoginition-React/static/js/2.a086cdf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc923e9.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a086cdf0.chunk.js",
+    "static/css/main.be0d9d63.chunk.css",
+    "static/js/main.e2100d93.chunk.js"
+  ]
+}
